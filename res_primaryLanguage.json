@@ -1,0 +1,155 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Abobakr Mahdi. A detail-oriented Junior Frontend Developer passionate about designing and building responsive web applications. Profi cient in HTML, CSS, JavaScript, and frameworks like React and Bootstrap. Solid understanding of user experience principles, committed to staying updated on web development trends, and a collaborative team player with strong communication skills. Eager to contribute to the success of an innovative development team. Thank you 💜",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Student Store",
+      "startDate": "2023",
+      "description": "The most expanded application I had the opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all selling processess and allows to store all evidence on sold items from the students.",
+      "images": [
+        "images/portfolio/student-store/p1.jpg",
+        "images/portfolio/student-store/p2.jpg"
+      ],
+      "url": "https://codeforce-student-store.vercel.app/",
+      "technologies": [
+        {
+          "class": "devicon-nextjs-plain",
+          "name": "Next JS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-firebase-plain",
+          "name": "Firebase"
+        },
+        {
+          "class": "devicon-tailwindcss-plain",
+          "name": "Tailwind CSS"
+        }
+      ]
+    },
+    {
+      "title": "Movie By Us",
+      "startDate": "2023",
+      "description": "Project for study subject. I was responsible for createing and testing movies application that displays movies with popular database used shich is IMDB API. I've earned A grade :)",
+      "images": [
+        "images/portfolio/movie-by-us/p1.jpg",
+        "images/portfolio/movie-by-us/p2.jpg"
+      ],
+      "url": "https://202212-giz-ye-few.github.io/movie-project-made-by-us/",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        }
+      ]
+    },
+    {
+      "title": "Razm Ecommers",
+      "startDate": "2023",
+      "description": "One of the first apps I worked on during my internship. I had to develop a front-end application for an application that displays products available in a particular database. This was also my first project in next js framework. I learned a lot!",
+      "images": [
+        "images/portfolio/razim-ecommers/p1.jpg",
+        "images/portfolio/razim-ecommers/p2.jpg"
+      ],
+      "url": "https://react-ecommerce-razm-coding.vercel.app/",
+      "technologies": [
+        {
+          "class": "devicon-nextjs-plain",
+          "name": "Next JS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-tailwindcss-plain",
+          "name": "Tailwind CSS"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Freelancer",
+      "title": "Front-End Developer",
+      "years": "7.2023 - 10.2023",
+      "mainTech": [
+        "FLutter",
+        "NextJS"
+      ],
+      "technologies": [
+        "REST API",
+        "Dart",
+        "Material UI",
+        "Laravel Sanctum",
+        "Vercel",
+        "Hostinger VPS",
+        "NextJS",
+        "NextJS API",
+        "MySQL",
+        "JavaScript",
+        "Tailwind"
+      ]
+    },
+    {
+      "company": "Freelancer",
+      "title": "CCTV Engineer",
+      "years": "2022 - present",
+      "mainTech": [
+        "DVR Systems"
+      ],
+      "technologies": [
+        "DVR",
+        "CCTV Conecting system",
+        "Camera placeholders",
+        "CCTV Screen Displayer"
+      ]
+    },
+    {
+      "company": "Freelancer",
+      "title": "Mobile engineer",
+      "years": "2020 - present",
+      "mainTech": [
+        "System Repaier"
+      ],
+      "technologies": [
+        "RNX translator",
+        "Alseery Software",
+        "DFS Studio",
+        "Global Unlocker"
+      ]
+    },
+    {
+      "company": "Arabia flex hackathon",
+      "title": "Game Developer",
+      "years": "2021",
+      "mainTech": [
+        "Unity"
+      ],
+      "technologies": [
+        "C#",
+        "Unity Engine",
+        "System Analyses"
+      ]
+    }
+  ]
+}
