@@ -7,7 +7,7 @@ body {
 
 }
 
-@media (min-width:1440px) {
+@media (min-width:1550px) {
   .protector {
     max-width: 60%;
     margin: 0 auto;
