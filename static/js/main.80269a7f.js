@@ -18135,7 +18135,7 @@
 										"Copyright \xa9",
 										" ",
 										this.props.sharedBasicInfo
-											? this.props.sharedBasicInfo.name
+											? `${this.props.sharedBasicInfo.name} 2023`
 											: "???"
 									)
 								)
