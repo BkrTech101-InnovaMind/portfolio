@@ -1359,7 +1359,8 @@ footer {
 footer a,
 footer a:focus,
 footer a:hover,
-footer a:visited {
+footer a:visited,
+footer a:active {
   color: #fff
 }
 
